@@ -1,0 +1,1 @@
+{"virtualbox":{"/var/apps":{"guestpath":"/var/apps","hostpath":"C:/Users/carol/Desktop/Projects/vm-linux/apps","disabled":false,"__vagrantfile":true},"/vagrant":{"owner":"vagrant","group":"vagrant","guestpath":"/vagrant","hostpath":"C:/Users/carol","disabled":false,"__vagrantfile":true}}}
